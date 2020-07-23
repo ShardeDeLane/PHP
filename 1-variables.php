@@ -6,6 +6,7 @@
 $name = "Bob Ross";
 $age = "unknown";
 $color = "green";
+$user = "peter parker";
 
 // functions, classes and keywords are NOT case sensitive
 // these call the same function
