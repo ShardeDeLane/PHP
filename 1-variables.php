@@ -19,7 +19,9 @@ define("King_Of_The North", "Jon Snow");
 echo "I  " . King_Of_The_North . " banish you from this realm!";
 // I Jon Snow banish you from this realm !
 
-// When using the const keyword, only scalar data (boolean, integer, float and string) can be contained in constants prior to PHP 5.6. From PHP 5.6 onwards, it is possible to define a constant as a scalar expression, and it is also possible to define an array constant. It is possible to define constants as a resource, but it should be avoided, as it can cause unexpected results.
+// When using the const keyword, only scalar data (boolean, integer, float and string) can be contained in constants prior to PHP 5.6. From PHP 5.6 
+// onwards, it is possible to define a constant as a scalar expression, and it is also possible to define an array constant. 
+// It is possible to define constants as a resource, but it should be avoided, as it can cause unexpected results.
 // Works as of PHP 5.6.0
 
 const ANOTHER_CONST = CONSTANT.'; Goodbye World';
