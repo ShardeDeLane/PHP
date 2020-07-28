@@ -1,3 +1,4 @@
+<?php
 // calculate the length of a string
 // strlen() is used to calculate the number of characters inside a string, it also includes blank spaces
 $my_str = "Welcome to Tutorial Republic";
@@ -30,3 +31,4 @@ $my_str = 'You can do anything, but not everything.';
 
 // Display reversed string
 echo strrev($my_str);
+?>
